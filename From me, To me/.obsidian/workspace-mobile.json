@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Oct 09, 2024.md",
+                "file": "Daily Notes/Oct 10, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/Oct 09, 2024.md",
+            "file": "Daily Notes/Oct 10, 2024.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily Notes/Oct 09, 2024.md",
+            "file": "Daily Notes/Oct 10, 2024.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily Notes/Oct 09, 2024.md"
+            "file": "Daily Notes/Oct 10, 2024.md"
           }
         }
       }
@@ -194,8 +194,9 @@
   },
   "active": "ab93b2603e9bbeee",
   "lastOpenFiles": [
-    "Daily Notes/Oct 08, 2024.md",
     "Daily Notes/Oct 09, 2024.md",
+    "Daily Notes/Oct 10, 2024.md",
+    "Daily Notes/Oct 08, 2024.md",
     "Daily Notes/Oct 07, 2024.md",
     "Daily Notes/Oct 06, 2024.md",
     "Pending Tasks.md",
@@ -220,7 +221,6 @@
     "Daily Notes/May 10, 2024.md",
     "Daily Notes/Oct 01, 2024.md",
     "Daily Notes/Sep 07, 2024.md",
-    "Daily Notes/Sep 05, 2024.md",
     "Interests/ML",
     "Finances",
     "Interests/Lang",
