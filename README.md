@@ -1,6 +1,6 @@
 Just a dump of all the links which I get when I doom scroll.
 
-I hope I don't put personal information here.
+Hope I don't put personal information here.
 
 Plans (which will not happen - 90%):
 1. Parse the links and use connectors for fetching data in screenshot forms - save in local.
