@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "7e7d8e14a2c888ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "38c9e61fbd5e67d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae55954658b606a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/May 10, 2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "May 10, 2024"
+            }
+          },
+          {
+            "id": "6caff8145c864fc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laptop Setup/Getting Started.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Getting Started"
+            }
+          },
+          {
+            "id": "8096f3f53a97690d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/May 12, 2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "May 12, 2024"
+            }
+          },
+          {
+            "id": "bc50c2f3fd9458c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Jul 08, 2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jul 08, 2024"
+            }
+          },
+          {
+            "id": "049face7be60f241",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Oct 06, 2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oct 06, 2024"
+            }
+          },
+          {
+            "id": "ab93b2603e9bbeee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Jul 27, 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jul 27, 2025"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f5575a1a80b251a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f7ef700189fd42b2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "4c4aba004598a3fa",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "3ff51fab431425cb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "ef72b340a88e28ea",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "83fc52463d1fc86a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fcfc0aa50c7ebc85",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Daily Notes/Apr 21, 2025.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "9f1260c77fa16237",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Daily Notes/Oct 18, 2024.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "569d1834792b066d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Daily Notes/Oct 18, 2024.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ab93b2603e9bbeee",
+  "lastOpenFiles": [
+    "Card.md",
+    "Daily Notes/Jul 27, 2025.md",
+    "Daily Notes/Jul 28, 2025.md",
+    "Daily Notes/Jul 26, 2025.md",
+    "Daily Notes/Jul 25, 2025.md",
+    "Daily Notes/Jul 24, 2025.md",
+    "Daily Notes/Jul 22, 2025.md",
+    "Daily Notes/Jul 21, 2025.md",
+    "Daily Notes/Jul 20, 2025.md",
+    "Daily Notes/Jul 18, 2025.md",
+    "Daily Notes/Jul 17, 2025.md",
+    "Daily Notes/Jul 16, 2025.md",
+    "Daily Notes/Jul 15, 2025.md",
+    "Daily Notes/Jul 14, 2025.md",
+    "Daily Notes/Jul 12, 2025.md",
+    "Daily Notes/Jul 11, 2025.md",
+    "Daily Notes/Jul 09, 2025.md",
+    "Daily Notes/Jul 08, 2025.md",
+    "Daily Notes/Jul 07, 2025.md",
+    "Daily Notes/Jul 06, 2025.md",
+    "Daily Notes/Jul 04, 2025.md",
+    "Daily Notes/Jul 03, 2025.md",
+    "Daily Notes/Jul 02, 2025.md",
+    "Daily Notes/Jul 01, 2025.md",
+    "Daily Notes/Jul 02, 2024.md",
+    "Daily Notes/Apr 01, 2025.md",
+    "Pending tasks",
+    "Interests/ML",
+    "Finances",
+    "Interests/Lang",
+    "Interests",
+    "Laptop Setup",
+    "Daily Notes"
+  ]
+}
