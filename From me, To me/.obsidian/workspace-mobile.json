@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/May 01, 2026.md",
+                "file": "Daily Notes/May 02, 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "May 01, 2026"
+              "title": "May 02, 2026"
             }
           }
         ],
@@ -222,8 +222,9 @@
   },
   "active": "ab93b2603e9bbeee",
   "lastOpenFiles": [
-    "Daily Notes/Apr 28, 2026.md",
     "Daily Notes/May 01, 2026.md",
+    "Daily Notes/May 02, 2026.md",
+    "Daily Notes/Apr 28, 2026.md",
     "Daily Notes/Apr 27, 2026.md",
     "Daily Notes/Apr 25, 2026.md",
     "Daily Notes/Apr 24, 2026.md",
@@ -248,7 +249,6 @@
     "dump2.md",
     "IMG-20251004-WA0039.jpg",
     "dump.md",
-    "Daily Notes/Apr 04, 2026.md",
     "Screenshot_20260310_232256_Discord.jpg",
     "Regression_to_Attention.pdf",
     "Callum McDougall Guide.pdf",
